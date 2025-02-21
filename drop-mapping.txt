@@ -219,7 +219,7 @@ Araxxor,29792,Araxxor,Noxious blade
 Araxxor,29790,Araxxor,Noxious point
 Araxxor,29794,Araxxor,Noxious pommel
 Araxxor,29786,Araxxor,Jar of venom
-Cow,2790,bones,
-Cow,2791 bones,
-Cow,2793,bones,
-Cow,2795, bones,
+Cow,2790,Cow,bones,
+Cow,2791,Cow,bones,
+Cow,2793,Cow,bones,
+Cow,2795,Cow,bones,
