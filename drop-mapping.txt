@@ -228,3 +228,5 @@ Cow,2790,Cow,Cowhide
 Cow,2791,Cow,Cowhide
 Cow,2793,Cow,Cowhide
 Cow,2795,Cow,Cowhide
+Giant Mole,5779,Giant Mole,Mole claw
+Giant Mole,5779,Giant Mole,Mole skin
