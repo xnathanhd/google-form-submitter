@@ -129,6 +129,7 @@ Unsired,13276,Abyssal Sire,Bludgeon piece
 Unsired,13277,Abyssal Sire,Jar of miasma
 Sarachnis,23528,Sarachnis,Sarachnis cudgel
 Sarachnis,23525,Sarachnis,Jar of eyes
+Sarachnis,23525,Sarachnis,Jar of eyes
 Gauntlet (Normal),25859,Gauntlet (Corrupted),Enhanced crystal weapon seed (c)
 Gauntlet (Normal),4207,Gauntlet (Corrupted),Crystal weapon seed (c)
 Gauntlet (Normal),23956,Gauntlet (Corrupted),Crystal armour seed (c)
