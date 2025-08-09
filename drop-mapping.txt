@@ -228,3 +228,14 @@ Giant Mole,7416,Giant Mole,Mole claw
 Giant Mole,7417,Giant Mole,Mole claw
 Giant Mole,7418,Giant Mole,Mole skin
 Giant Mole,7419,Giant Mole,Mole skin
+The Hueycoatl,30066,Hueycoatl,Tome of earth (empty)
+The Hueycoatl,30070,Hueycoatl,Dragon hunter wand
+Branda the Fire Queen,30631,Royal Titans,Fire element staff crown
+Eldric the Ice King,30628,Royal Titans,Ice element staff crown
+Yama,30750,Yama,Oathplate helm
+Yama,30753,Yama,Oathplate chest
+Yama,30756,Yama,Oathplate legs
+Yama,30759,Yama,Soulflame horn
+Doom of Mokhaiotl,31088,Doom of Mokhaiotl,Avernic treads
+Doom of Mokhaiotl,31115,Doom of Mokhaiotl,Eye of ayak (uncharged)
+Doom of Mokhaiotl,31109,Doom of Mokhaiotl,Mokhaiotl cloth
