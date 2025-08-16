@@ -220,10 +220,6 @@ Araxxor,29792,Araxxor,Noxious blade
 Araxxor,29790,Araxxor,Noxious point
 Araxxor,29794,Araxxor,Noxious pommel
 Araxxor,29786,Araxxor,Jar of venom
-Cow,1739,Cow,Cowhide
-Cow,1739,Cow,Cowhide
-Cow,1739,Cow,Cowhide
-Cow,1739,Cow,Cowhide
 Giant Mole,7416,Giant Mole,Mole claw
 Giant Mole,7417,Giant Mole,Mole claw
 Giant Mole,7418,Giant Mole,Mole skin
@@ -239,3 +235,4 @@ Yama,30759,Yama,Soulflame horn
 Doom of Mokhaiotl,31088,Doom of Mokhaiotl,Avernic treads
 Doom of Mokhaiotl,31115,Doom of Mokhaiotl,Eye of ayak (uncharged)
 Doom of Mokhaiotl,31109,Doom of Mokhaiotl,Mokhaiotl cloth
+Monk,526,Monk,Bones
