@@ -229,4 +229,3 @@ Doom of Mokhaiotl,31088,Doom of Mokhaiotl,Avernic treads
 Doom of Mokhaiotl,31115,Doom of Mokhaiotl,Eye of ayak (uncharged)
 Doom of Mokhaiotl,31109,Doom of Mokhaiotl,Mokhaiotl cloth
 Monk,526,Monk,Bones
-Goblin,995,Goblin,Coins (whatever I want)
