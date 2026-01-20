@@ -1,3 +1,13 @@
+Barrows,995,Barrows,Coins
+Chest (Barrows),995,Chest (Barrows),Coins
+Chest,995,Chest,Coins
+Crazy archaeologist,526,Crazy archaeologist,Bones
+Crazy archaeologist,11932,Crazy archaeologist,Malediction shard 2
+Crazy archaeologist,11929,Crazy archaeologist,Odium shard 2
+Chaos Fanatic,526,Chaos Fanatic,Bones
+Chaos Fanatic,11931,Chaos Fanatic,Malediction shard 1
+Chaos Fanatic,11928,Chaos Fanatic,Odium shard 1
+Shellbane gryphon,532,Shellbane gryphon,Big bones
 Kree'arra,11826,Kree'arra,Armadyl helmet
 Kree'arra,11828,Kree'arra,Armadyl chestplate
 Kree'arra,11830,Kree'arra,Armadyl chainskirt
@@ -21,6 +31,7 @@ K'ril Tsutsaroth,12652,K'ril Tsutsaroth,K'ril Tsutsaroth Jr
 Dagannoth Supreme,6733,Dagannoth Supreme,Archers ring
 Dagannoth Supreme,12643,Dagannoth Supreme,Dagannoth Supreme Jr
 Dagannoth Rex,6737,Dagannoth Rex,Berserker ring
+Dagannoth Rex,6735,Dagannoth Rex,Warrior ring
 Dagannoth Rex,12645,Dagannoth Rex,Dagannoth Rex Jr
 Dagannoth Prime,6731,Dagannoth Prime,Seers ring
 Dagannoth Prime,12644,Dagannoth Prime,Dagannoth Prime Jr
@@ -80,6 +91,8 @@ Kraken,12004,Kraken,Kraken tentacle (Kraken)
 Kraken,12007,Kraken,Jar of dirt
 Kraken,12655,Kraken,Kraken
 Demonic gorilla,19529,Demonic Gorilla,Zenyte shard (Demonic gorilla)
+Demonic gorilla,19589,Demonic Gorilla,Heavy frame (Demonic gorilla)
+Demonic gorilla,19586,Demonic Gorilla,Light frame (Demonic gorilla)
 Chambers of Xeric,21003,Chambers of Xeric,Elder maul
 Chambers of Xeric,20997,Chambers of Xeric,Twisted bow
 Chambers of Xeric,21043,Chambers of Xeric,Kodai insignia
@@ -138,14 +151,16 @@ Theatre of Blood (HM),25742,Theatre of Blood (HM),Holy ornament kit
 Theatre of Blood (HM),25744,Theatre of Blood (HM),Sanguine ornament kit
 Theatre of Blood (HM),25746,Theatre of Blood (HM),Sanguine dust
 Theatre of Blood (HM),22473,Theatre of Blood (HM),Lil' Zik
-Alchemical Hydra,22969,Alchemical Hydra,Brimstone ring piece (Alchemical Hydra)
-Alchemical Hydra,22971,Alchemical Hydra,Brimstone ring piece (Alchemical Hydra)
-Alchemical Hydra,22973,Alchemical Hydra,Brimstone ring piece (Alchemical Hydra)
+Alchemical Hydra,22969,Alchemical Hydra,Hydra's heart (Alchemical Hydra)
+Alchemical Hydra,22971,Alchemical Hydra,Hydra's fang (Alchemical Hydra)
+Alchemical Hydra,22973,Alchemical Hydra,Hydra's eye (Alchemical Hydra)
 Alchemical Hydra,22988,Alchemical Hydra,Hydra tail (Alchemical Hydra)
 Alchemical Hydra,22966,Alchemical Hydra,Hydra's claw
 Alchemical Hydra,22983,Alchemical Hydra,Hydra leather
 Alchemical Hydra,23064,Alchemical Hydra,Jar of chemicals
 Alchemical Hydra,22746,Alchemical Hydra,Ikkle Hydra
+Abyssal Sire,13273,Abyssal Sire,Unsired
+Abyssal Sire,25775,Abyssal Sire,Abyssal ashes
 Unsired,13265,Abyssal Sire,Abyssal dagger (Abyssal Sire)
 Unsired,4151,Abyssal Sire,Abyssal whip (Abyssal Sire)
 Unsired,7979,Abyssal Sire,Abyssal head (Abyssal Sire)
@@ -173,6 +188,7 @@ Nightmare of Ashihama,24417,Nightmare of Ashihama,Inquisitor's mace
 Nightmare of Ashihama,24517,Nightmare of Ashihama,Eldritch orb
 Nightmare of Ashihama,24514,Nightmare of Ashihama,Volatile orb
 Nightmare of Ashihama,24511,Nightmare of Ashihama,Harmonised orb
+Nightmare of Ashihama,24495,Nightmare of Ashihama,Jar of dreams
 Nightmare of Ashihama,24491,Nightmare of Ashihama,Little Nightmare
 Phosani's Nightmare,24422,Phosani's Nightmare,Nightmare staff
 Phosani's Nightmare,24419,Phosani's Nightmare,Inquisitor's great helm
@@ -183,6 +199,7 @@ Phosani's Nightmare,24517,Phosani's Nightmare,Eldritch orb
 Phosani's Nightmare,24514,Phosani's Nightmare,Volatile orb
 Phosani's Nightmare,24511,Phosani's Nightmare,Harmonised orb
 Phosani's Nightmare,25838,Phosani's Nightmare,Parasitic egg
+Phosani's Nightmare,24495,Phosani's Nightmare,Jar of dreams
 Phosani's Nightmare,24491,Phosani's Nightmare,Little Nightmare
 Nex,26235,Nex,Zaryte vambraces
 Nex,26372,Nex,Nihil horn
@@ -208,6 +225,7 @@ Tombs of Amascut (XM),25975,Tombs of Amascut,Lightbearer
 Tombs of Amascut,27352,Tombs of Amascut,Tumeken's Guardian
 Tombs of Amascut (XM),27352,Tombs of Amascut,Tumeken's Guardian
 Phantom Muspah,27614,Phantom Muspah,Venator shard
+Phantom Muspah,5315,Phantom Muspah,Yew Seed
 Phantom Muspah,27590,Phantom Muspah,Muphin
 Artio,12603,Artio,Tyrannical ring (Artio)
 Artio,27667,Artio,Claws of callisto (Artio)
@@ -254,7 +272,7 @@ Fortis Colosseum,28933,Fortis Colosseum,Sunfire fanatic helm
 Fortis Colosseum,28936,Fortis Colosseum,Sunfire fanatic cuirass
 Fortis Colosseum,28939,Fortis Colosseum,Sunfire fanatic chausses
 Fortis Colosseum,28960,Fortis Colosseum,Smol Heredit
-Tormented Demon,29574,Tormented Demon,Bone claw
+Tormented Demon,29574,Tormented Demon,Burning claw
 Tormented Demon,29580,Tormented Demon,Tormented synapse
 Araxxor,29799,Araxxor,Araxyte fang
 Araxxor,29792,Araxxor,Noxious blade
@@ -262,12 +280,13 @@ Araxxor,29790,Araxxor,Noxious point
 Araxxor,29794,Araxxor,Noxious pommel
 Araxxor,29786,Araxxor,Jar of venom
 Araxxor,29836,Araxxor,Nid
+The Hueycoatl,30085,Hueycoatl,Hueycoatl hide
 The Hueycoatl,30066,Hueycoatl,Tome of earth (empty)
 The Hueycoatl,30070,Hueycoatl,Dragon hunter wand
 The Hueycoatl,30152,Hueycoatl,Huberte
 Branda the Fire Queen,30631,Royal Titans,Fire element staff crown
-Eldric the Ice King,30628,Royal Titans,Ice element staff crown
 Branda the Fire Queen,30622,Royal Titans,Bran
+Eldric the Ice King,30628,Royal Titans,Ice element staff crown
 Eldric the Ice King,30622,Royal Titans,Bran
 Yama,30750,Yama,Oathplate helm
 Yama,30753,Yama,Oathplate chest
