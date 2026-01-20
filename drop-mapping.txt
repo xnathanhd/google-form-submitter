@@ -1,5 +1,5 @@
 Barrows,995,Barrows,Coins
-Bird Nest,5075,Bird Nest,Bird Nest (Empty)
+Bird nest,5075,Bird Nest,Bird Nest (Empty)
 Crazy archaeologist,11932,Crazy archaeologist,Malediction shard 2
 Crazy archaeologist,11929,Crazy archaeologist,Odium shard 2
 Chaos Fanatic,11931,Chaos Fanatic,Malediction shard 1
