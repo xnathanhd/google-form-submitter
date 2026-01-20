@@ -1,7 +1,12 @@
-Barrows,995,Barrows,Coins
-Bird nest,5075,Bird Nest,Bird Nest (Empty)
-Bird nest,5312,Bird Nest,Acorn
-Bird nest,1635,Bird Nest,Gold ring
+Barrows,4755,Barrows,Verac's flail
+Barrows,4710,Barrows,Ahrim's staff
+Barrows,4718,Barrows,Dharok's greataxe
+Barrows,4726,Barrows,Guthan's warspear
+Barrows,4734,Barrows,Karil's crossbow
+Barrows,4747,Barrows,Torag's hammers
+Forgotten lockbox,30750,Yama,Oathplate helm (Lockbox)
+Forgotten lockbox,30753,Yama,Oathplate chest (Lockbox)
+Forgotten lockbox,30756,Yama,Oathplate legs (Lockbox)
 Crazy archaeologist,11932,Crazy archaeologist,Malediction shard 2
 Crazy archaeologist,11929,Crazy archaeologist,Odium shard 2
 Chaos Fanatic,11931,Chaos Fanatic,Malediction shard 1
