@@ -45,7 +45,7 @@ Vet'ion,13179,Vet'ion,Vet'ion Jr. (Vet'ion)
 Venenatis,12605,Venenatis,Treasonous ring (Venenatis)
 Venenatis,27670,Venenatis,Fangs of venenatis (Venenatis)
 Venenatis,27687,Venenatis,Voidwaker gem (Venenatis)
-Venenatis,13177,Venenatis spiderling (Venenatis)
+Venenatis,13177,Venenati,Venenatis spiderling (Venenatis)
 King Black Dragon,11286,King Black Dragon,Draconic visage (King Black Dragon)
 King Black Dragon,11920,King Black Dragon,Dragon pickaxe (King Black Dragon)
 King Black Dragon,12653,King Black Dragon,Prince Black Dragon
