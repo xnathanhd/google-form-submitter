@@ -305,4 +305,5 @@ Doom of Mokhaiotl,31109,Doom of Mokhaiotl,Mokhaiotl cloth
 Doom of Mokhaiotl,31130,Doom of Mokhaiotl,Dom
 Scurrius,10976,Scurrius,Long bone
 Scurrius,28801,Scurrius,Scurry
+Scurrius,532,Scurrius,Big bones
 Monk,526,Monk,Bones
