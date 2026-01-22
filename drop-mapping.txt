@@ -303,4 +303,6 @@ Doom of Mokhaiotl,31088,Doom of Mokhaiotl,Avernic treads
 Doom of Mokhaiotl,31115,Doom of Mokhaiotl,Eye of ayak (uncharged)
 Doom of Mokhaiotl,31109,Doom of Mokhaiotl,Mokhaiotl cloth
 Doom of Mokhaiotl,31130,Doom of Mokhaiotl,Dom
+Scurrius,10976,Scurrius,Long bone
+Scurrius,28801,Scurrius,Scurry
 Monk,526,Monk,Bones
