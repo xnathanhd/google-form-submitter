@@ -132,6 +132,7 @@ Vorkath,11286,Vorkath,Draconic visage (Vorkath)
 Vorkath,22006,Vorkath,Skeletal visage
 Vorkath,22106,Vorkath,Jar of decay
 Vorkath,21992,Vorkath,Vorki
+Dusk,4153,Grotesque Guardians,Granite maul
 Dusk,21739,Grotesque Guardians,Granite ring
 Dusk,21736,Grotesque Guardians,Granite gloves
 Dusk,21742,Grotesque Guardians,Granite hammer
