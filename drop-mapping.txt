@@ -178,14 +178,14 @@ Unsired,13262,Abyssal Sire,Abyssal orphan
 Sarachnis,23528,Sarachnis,Sarachnis cudgel
 Sarachnis,23525,Sarachnis,Jar of eyes
 Sarachnis,23495,Sarachnis,Sraracha
-Crystalline Hunllef,25859,Gauntlet (Normal),Enhanced crystal weapon seed
-Crystalline Hunllef,4207,Gauntlet (Normal),Crystal weapon seed
-Crystalline Hunllef,23956,Gauntlet (Normal),Crystal armour seed
-Crystalline Hunllef,23757,Gauntlet (Normal),Youngllef
-Corrupted Hunllef,25859,Gauntlet (Corrupted),Enhanced crystal weapon seed (c)
-Corrupted Hunllef,4207,Gauntlet (Corrupted),Crystal weapon seed (c)
-Corrupted Hunllef,23956,Gauntlet (Corrupted),Crystal armour seed (c)
-Corrupted Hunllef,23757,Gauntlet (Corrupted),Youngllef
+Crystalline Hunllef,25859,Gauntlet,Enhanced crystal weapon seed
+Crystalline Hunllef,4207,Gauntlet,Crystal weapon seed
+Crystalline Hunllef,23956,Gauntlet,Crystal armour seed
+Crystalline Hunllef,23757,Gauntlet,Youngllef
+Corrupted Hunllef,25859,Corrupted Gauntlet,Enhanced crystal weapon seed (c)
+Corrupted Hunllef,4207,Corrupted Gauntlet,Crystal weapon seed (c)
+Corrupted Hunllef,23956,Corrupted Gauntlet,Crystal armour seed (c)
+Corrupted Hunllef,23757,Corrupted Gauntlet,Youngllef
 Nightmare of Ashihama,24422,Nightmare of Ashihama,Nightmare staff
 Nightmare of Ashihama,24419,Nightmare of Ashihama,Inquisitor's great helm
 Nightmare of Ashihama,24420,Nightmare of Ashihama,Inquisitor's hauberk
