@@ -32,7 +32,7 @@ Thermonuclear smoke devil,25524,Thermonuclear smoke devil,Jar of smoke
 Thermonuclear smoke devil,12648,Thermonuclear smoke devil,Pet smoke devil
 TzTok-Jad,6570,TzTok-Jad,Fire cape
 TzTok-Jad,13225,TzTok-Jad,Tzrek-jad
-TzKal-Zuk,21296,TzKal-Zuk,Infernal cape
+TzKal-Zuk,21295,TzKal-Zuk,Infernal cape
 TzKal-Zuk,21291,TzKal-Zuk,Jal-nib-rek
 Branda the Fire Queen,30631,Royal Titans,Fire element staff crown
 Branda the Fire Queen,30622,Royal Titans,Bran
