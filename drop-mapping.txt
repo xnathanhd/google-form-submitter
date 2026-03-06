@@ -321,9 +321,9 @@ Scorpia,13181,Scorpia,Scorpia's offspring
 Chaos Elemental,11920,Chaos Elemental,Dragon pickaxe (Chaos Elemental)
 Chaos Elemental,7158,Chaos Elemental,Dragon 2h sword (Chaos Elemental)
 Chaos Elemental,11995,Chaos Elemental,Pet chaos elemental
-Corporeal Beast,12819,Corporeal Beast,Elysian sigil
-Corporeal Beast,12827,Corporeal Beast,Arcane sigil
-Corporeal Beast,12823,Corporeal Beast,Spectral sigil
+Corporeal Beast,12819,Corporeal Beast,Any Sigil
+Corporeal Beast,12827,Corporeal Beast,Any Sigil
+Corporeal Beast,12823,Corporeal Beast,Any Sigil
 Corporeal Beast,12833,Corporeal Beast,Holy elixir
 Corporeal Beast,12829,Corporeal Beast,Spirit shield
 Corporeal Beast,25521,Corporeal Beast,Jar of spirits
