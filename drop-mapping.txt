@@ -243,9 +243,9 @@ Zulrah,12927,Zulrah,Serpentine visage
 Zulrah,12922,Zulrah,Tanzanite fang
 Zulrah,12932,Zulrah,Magic fang
 Zulrah,6571,Zulrah,Uncut onyx (Zulrah)
-Zulrah,13200,Zulrah,Tanzanite mutagen
-Zulrah,13201,Zulrah,Magma mutagen
-Zulrah,12936,Zulrah,Jar of swamp
+Zulrah,13200,Zulrah,Jar or Mutagen
+Zulrah,13201,Zulrah,Jar or Mutagen
+Zulrah,12936,Zulrah,Jar or Mutagen
 Zulrah,12921,Zulrah,Snakeling
 Zalcano,23908,Zalcano,Zalcano shard
 Zalcano,23953,Zalcano,Crystal tool seed
