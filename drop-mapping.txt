@@ -95,9 +95,9 @@ Duke Sucellus,26241,Duke Sucellus,Any virtus (Duke Sucellus)
 Duke Sucellus,26243,Duke Sucellus,Any virtus (Duke Sucellus)
 Duke Sucellus,26245,Duke Sucellus,Any virtus (Duke Sucellus)
 Vorkath,22111,Vorkath,Dragonbone necklace
-Vorkath,11286,Vorkath,Draconic visage (Vorkath)
-Vorkath,22006,Vorkath,Jar of decay/Skeletal visage
-Vorkath,22106,Vorkath,Jar of decay/Skeletal visage
+Vorkath,11286,Vorkath,Jar of decay/Visage
+Vorkath,22006,Vorkath,Jar of decay/Visage
+Vorkath,22106,Vorkath,Jar of decay/Visage
 Vorkath,21992,Vorkath,Vorki
 Phantom Muspah,27614,Phantom Muspah,Venator shard
 Phantom Muspah,5314,Phantom Muspah,Maple seed (Phantom Muspah)
