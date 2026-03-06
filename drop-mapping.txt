@@ -1,4 +1,7 @@
+Brutus,33124,Brutus,Beef
 Abyssal Sire,13273,Abyssal Sire,Unsired
+Abyssal Sire,1452,Abyssal Sire,Chaos talisman
+Abyssal Sire,1462,Abussal Sire,Nature talisman
 Unsired,13262,Abyssal Sire,Abyssal orphan
 Deranged archaeologist,30895,Deranged archaeologist,Steel ring
 Scurrius,10976,Scurrius,Long bone
@@ -12,11 +15,11 @@ Ancient wyvern,21637,fossil island wyvern, Wyvern visage
 Spitting wyvern,21637,fossil island wyvern, Wyvern visage
 Taloned wyvern,21637,fossil island wyvern, Wyvern visage
 Long-tailed wyvern,21637,fossil island wyvern, Wyvern visage
-Rune dragon,11286,Rune dragon,Draconic visage (Rune dragon)
-Rune dragon,21918,Rune dragon,Dragon limbs (Rune dragon)
+Rune dragon,11286,Rune dragon,Draconic visage (Metal dragon)
+Rune dragon,21918,Rune dragon,Dragon limbs (Metal dragon)
 Rune dragon,22103,Rune dragon,Dragon metal lump
-Adamant dragon,11286,Adamant dragon,Draconic visage (Adamant dragon)
-Adamant dragon,21918,Adamant dragon,Dragon limbs (Adamant dragon)
+Adamant dragon,11286,Adamant dragon,Draconic visage (Metal dragon)
+Adamant dragon,21918,Adamant dragon,Dragon limbs (Metal dragon)
 Adamant dragon,22100,Adamant dragon,Dragon metal slice
 Demonic gorilla,19529,Demonic Gorilla,Zenyte shard (Demonic gorilla)
 Demonic gorilla,19589,Demonic Gorilla,Heavy frame (Demonic gorilla)
@@ -74,9 +77,9 @@ Nex,26370,Nex,Ancient hilt
 Nex,26348,Nex,Nexling
 The Whisperer,28323,Whisperer,Siren's staff
 The Whisperer,28246,Whisperer,Wisp
-The Whisperer,26241,Whisperer,Virtus mask (Whisperer)
-The Whisperer,26243,Whisperer,Virtus robe top (Whisperer)
-The Whisperer,26245,Whisperer,Virtus robe bottom (Whisperer)
+The Whisperer,26241,Whisperer,Any virtus (Whisperer)
+The Whisperer,26243,Whisperer,Any virtus (Whisperer)
+The Whisperer,26245,Whisperer,Any virtus (Whisperer)
 Dagannoth Supreme,6733,Dagannoth Supreme,Archers ring
 Dagannoth Supreme,6724,Dagannoth Supreme,Seercull
 Dagannoth Supreme,12643,Dagannoth Supreme,Pet dagannoth supreme
@@ -88,15 +91,17 @@ Dagannoth Prime,6562,Dagannoth Prime,Mud battlestaff
 Dagannoth Prime,12644,Dagannoth Prime,Pet dagannoth prime
 Duke Sucellus,28321,Duke Sucellus,Eye of the duke
 Duke Sucellus,28250,Duke Sucellus,Baron
-Duke Sucellus,26241,Duke Sucellus,Virtus mask (Duke Sucellus)
-Duke Sucellus,26243,Duke Sucellus,Virtus robe top (Duke Sucellus)
-Duke Sucellus,26245,Duke Sucellus,Virtus robe bottom (Duke Sucellus)
+Duke Sucellus,26241,Duke Sucellus,Any virtus (Duke Sucellus)
+Duke Sucellus,26243,Duke Sucellus,Any virtus (Duke Sucellus)
+Duke Sucellus,26245,Duke Sucellus,Any virtus (Duke Sucellus)
 Vorkath,22111,Vorkath,Dragonbone necklace
 Vorkath,11286,Vorkath,Draconic visage (Vorkath)
 Vorkath,22006,Vorkath,Skeletal visage
 Vorkath,22106,Vorkath,Jar of decay
 Vorkath,21992,Vorkath,Vorki
 Phantom Muspah,27614,Phantom Muspah,Venator shard
+Phantom Muspah,5314,Phantom Muspah,Maple seed (Phantom Muspah)
+Phantom Muspah,21486,Phantom Muspah,Teak seed (Phantom Muspah)
 Phantom Muspah,27590,Phantom Muspah,Muphin
 Kalphite Queen,11920,Kalphite Queen,Dragon pickaxe (Kalphite Queen)
 Kalphite Queen,3140,Kalphite Queen,Dragon chainbody (Kalphite Queen)
@@ -105,9 +110,9 @@ Kalphite Queen,12885,Kalphite Queen,Jar of sand
 Kalphite Queen,12647,Kalphite Queen,Kalphite Princess
 The Leviathan,28325,Leviathan,Leviathan's lure
 The Leviathan,28252,Leviathan,Lil'viathan
-The Leviathan,26241,Leviathan,Virtus mask (Leviathan)
-The Leviathan,26243,Leviathan,Virtus robe top (Leviathan)
-The Leviathan,26245,Leviathan,Virtus robe bottom (Leviathan)
+The Leviathan,26241,Leviathan,Any virtus (Leviathan)
+The Leviathan,26243,Leviathan,Any virtus (Leviathan)
+The Leviathan,26245,Leviathan,Any virtus (Leviathan)
 Tombs of Amascut,27277,Tombs of Amascut,Tumeken's shadow (uncharged)
 Tombs of Amascut (XM),27277,Tombs of Amascut,Tumeken's shadow (uncharged)
 Tombs of Amascut,27226,Tombs of Amascut,Masori mask
@@ -124,17 +129,14 @@ Tombs of Amascut,25975,Tombs of Amascut,Lightbearer
 Tombs of Amascut (XM),25975,Tombs of Amascut,Lightbearer
 Tombs of Amascut,27352,Tombs of Amascut,Tumeken's Guardian
 Tombs of Amascut (XM),27352,Tombs of Amascut,Tumeken's Guardian
-Alchemical Hydra,22969,Alchemical Hydra,Hydra's heart (Alchemical Hydra)
-Alchemical Hydra,22971,Alchemical Hydra,Hydra's fang (Alchemical Hydra)
-Alchemical Hydra,22973,Alchemical Hydra,Hydra's eye (Alchemical Hydra)
 Alchemical Hydra,22988,Alchemical Hydra,Hydra tail (Alchemical Hydra)
 Alchemical Hydra,22966,Alchemical Hydra,Hydra's claw
 Alchemical Hydra,22983,Alchemical Hydra,Hydra leather
 Alchemical Hydra,23064,Alchemical Hydra,Jar of chemicals
 Alchemical Hydra,22746,Alchemical Hydra,Ikkle Hydra
-Chambers of Xeric,21003,Chambers of Xeric,Elder maul
-Chambers of Xeric,20997,Chambers of Xeric,Twisted bow
-Chambers of Xeric,21043,Chambers of Xeric,Kodai insignia
+Chambers of Xeric,21003,Chambers of Xeric,Cox Megarare
+Chambers of Xeric,20997,Chambers of Xeric,Cox Megarare
+Chambers of Xeric,21043,Chambers of Xeric,Cox Megarare
 Chambers of Xeric,13652,Chambers of Xeric,Dragon claws
 Chambers of Xeric,21018,Chambers of Xeric,Ancestral hat
 Chambers of Xeric,21021,Chambers of Xeric,Ancestral robe top
@@ -145,9 +147,9 @@ Chambers of Xeric,21000,Chambers of Xeric,Twisted buckler
 Chambers of Xeric,21034,Chambers of Xeric,Dexterous prayer scroll
 Chambers of Xeric,21079,Chambers of Xeric,Arcane prayer scroll
 Chambers of Xeric,20851,Chambers of Xeric,Olmlet
-Chambers of Xeric (CM),21003,Chambers of Xeric (CM),Elder maul
-Chambers of Xeric (CM),20997,Chambers of Xeric (CM),Twisted bow
-Chambers of Xeric (CM),21043,Chambers of Xeric (CM),Kodai insignia
+Chambers of Xeric (CM),21003,Chambers of Xeric (CM),Cox Megarare
+Chambers of Xeric (CM),20997,Chambers of Xeric (CM),Cox Megarare
+Chambers of Xeric (CM),21043,Chambers of Xeric (CM),Cox Megarare
 Chambers of Xeric (CM),13652,Chambers of Xeric (CM),Dragon claws
 Chambers of Xeric (CM),21018,Chambers of Xeric (CM),Ancestral hat
 Chambers of Xeric (CM),21021,Chambers of Xeric (CM),Ancestral robe top
@@ -172,9 +174,7 @@ Yama,30756,Yama,Oathplate legs
 Yama,30759,Yama,Soulflame horn
 Yama,30888,Yama,Yami
 Araxxor,29799,Araxxor,Araxyte fang
-Araxxor,29792,Araxxor,Noxious blade
-Araxxor,29790,Araxxor,Noxious point
-Araxxor,29794,Araxxor,Noxious pommel
+Araxxor,29788,Araxxor,Araxyte head (Araxxor)
 Araxxor,29786,Araxxor,Jar of venom
 Araxxor,29836,Araxxor,Nid
 Barrows,4755,Barrows,Verac's flail
@@ -194,9 +194,9 @@ Nightmare of Ashihama,24419,Nightmare of Ashihama,Inquisitor's great helm
 Nightmare of Ashihama,24420,Nightmare of Ashihama,Inquisitor's hauberk
 Nightmare of Ashihama,24421,Nightmare of Ashihama,Inquisitor's plateskirt
 Nightmare of Ashihama,24417,Nightmare of Ashihama,Inquisitor's mace
-Nightmare of Ashihama,24517,Nightmare of Ashihama,Eldritch orb
-Nightmare of Ashihama,24514,Nightmare of Ashihama,Volatile orb
-Nightmare of Ashihama,24511,Nightmare of Ashihama,Harmonised orb
+Nightmare of Ashihama,24517,Nightmare of Ashihama,Orb
+Nightmare of Ashihama,24514,Nightmare of Ashihama,Orb
+Nightmare of Ashihama,24511,Nightmare of Ashihama,Orb
 Nightmare of Ashihama,24495,Nightmare of Ashihama,Jar of dreams
 Nightmare of Ashihama,24491,Nightmare of Ashihama,Little Nightmare
 Phosani's Nightmare,24422,Phosani's Nightmare,Nightmare staff
@@ -204,9 +204,9 @@ Phosani's Nightmare,24419,Phosani's Nightmare,Inquisitor's great helm
 Phosani's Nightmare,24420,Phosani's Nightmare,Inquisitor's hauberk
 Phosani's Nightmare,24421,Phosani's Nightmare,Inquisitor's plateskirt
 Phosani's Nightmare,24417,Phosani's Nightmare,Inquisitor's mace
-Phosani's Nightmare,24517,Phosani's Nightmare,Eldritch orb
-Phosani's Nightmare,24514,Phosani's Nightmare,Volatile orb
-Phosani's Nightmare,24511,Phosani's Nightmare,Harmonised orb
+Phosani's Nightmare,24517,Phosani's Nightmare,Orb
+Phosani's Nightmare,24514,Phosani's Nightmare,Orb
+Phosani's Nightmare,24511,Phosani's Nightmare,Orb
 Phosani's Nightmare,25838,Phosani's Nightmare,Parasitic egg
 Phosani's Nightmare,24495,Phosani's Nightmare,Jar of dreams
 Phosani's Nightmare,24491,Phosani's Nightmare,Little Nightmare
@@ -280,33 +280,33 @@ Lunar chest,29013,Moons of Peril, Blue moon chestplate
 Lunar chest,29016,Moons of Peril, Blue moon tassets
 Vardorvis,28319,Vardorvis,Executioner's axe head
 Vardorvis,28248,Vardorvis,Butch
-Vardorvis,26241,Vardorvis,Virtus mask (Vardorvis)
-Vardorvis,26243,Vardorvis,Virtus robe top (Vardorvis)
-Vardorvis,26245,Vardorvis,Virtus robe bottom (Vardorvis)
-Artio,12603,Artio,Tyrannical ring (Artio)
-Artio,27667,Artio,Claws of callisto (Artio)
-Artio,27681,Artio,Voidwaker hilt (Artio)
-Artio,13178,Artio,Callisto cub (Artio)
-Calvar'ion,12601,Calvar'ion,Ring of the gods (Calvar'ion)
-Calvar'ion,27673,Calvar'ion,Skull of vet'ion (Calvar'ion)
-Calvar'ion,27684,Calvar'ion,Voidwaker blade (Calvar'ion)
-Calvar'ion,13179,Calvar'ion,Vet'ion Jr (Calvar'ion)
-Spindel,12605,Spindel,Treasonous ring (Spindel)
-Spindel,27670,Spindel,Fangs of venenatis (Spindel)
-Spindel,27687,Spindel,Voidwaker gem (Spindel)
-Spindel,13177,Spindel,Venenatis spiderling (Spindel)
-Callisto,12603,Callisto,Tyrannical ring (Callisto)
-Callisto,27667,Callisto,Claws of callisto (Callisto)
-Callisto,27681,Callisto,Voidwaker hilt (Callisto)
-Callisto,13178,Callisto,Callisto cub (Callisto)
-Vet'ion,12601,Vet'ion,Ring of the gods (Vet'ion)
-Vet'ion,27673,Vet'ion,Skull of vet'ion (Vet'ion)
-Vet'ion,27684,Vet'ion,Voidwaker blade (Vet'ion)
-Vet'ion,13179,Vet'ion,Vet'ion Jr. (Vet'ion)
-Venenatis,12605,Venenatis,Treasonous ring (Venenatis)
-Venenatis,27670,Venenatis,Fangs of venenatis (Venenatis)
-Venenatis,27687,Venenatis,Voidwaker gem (Venenatis)
-Venenatis,13177,Venenati,Venenatis spiderling (Venenatis)
+Vardorvis,26241,Vardorvis,Any virtus (Vardorvis)
+Vardorvis,26243,Vardorvis,Any virtus (Vardorvis)
+Vardorvis,26245,Vardorvis,Any virtus (Vardorvis)
+Artio,12603,Artio,Tyrannical ring
+Artio,27667,Artio,Claws of callisto
+Artio,27681,Artio,Voidwaker hilt
+Artio,13178,Artio,Callisto cub
+Calvar'ion,12601,Calvar'ion,Ring of the gods
+Calvar'ion,27673,Calvar'ion,Skull of vet'ion
+Calvar'ion,27684,Calvar'ion,Voidwaker blade
+Calvar'ion,13179,Calvar'ion,Vet'ion Jr
+Spindel,12605,Spindel,Treasonous ring
+Spindel,27670,Spindel,Fangs of venenatis
+Spindel,27687,Spindel,Voidwaker gem
+Spindel,13177,Spindel,Venenatis spiderling
+Callisto,12603,Callisto,Tyrannical ring
+Callisto,27667,Callisto,Claws of callisto
+Callisto,27681,Callisto,Voidwaker hilt
+Callisto,13178,Callisto,Callisto cub
+Vet'ion,12601,Vet'ion,Ring of the gods
+Vet'ion,27673,Vet'ion,Skull of vet'ion
+Vet'ion,27684,Vet'ion,Voidwaker blade
+Vet'ion,13179,Vet'ion,Vet'ion Jr.
+Venenatis,12605,Venenatis,Treasonous ring
+Venenatis,27670,Venenatis,Fangs of venenatis
+Venenatis,27687,Venenatis,Voidwaker gem
+Venenatis,13177,Venenati,Venenatis spiderling
 King Black Dragon,11920,King Black Dragon,Dragon pickaxe (King Black Dragon)
 King Black Dragon,11286,King Black Dragon,Draconic visage (King Black Dragon)
 King Black Dragon,12653,King Black Dragon,Prince Black Dragon
