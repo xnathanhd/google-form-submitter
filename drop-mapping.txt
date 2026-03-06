@@ -165,9 +165,9 @@ Chambers of Xeric (CM),20851,Chambers of Xeric (CM),Olmlet
 Sarachnis,23528,Sarachnis,Sarachnis cudgel
 Sarachnis,23525,Sarachnis,Jar of eyes
 Sarachnis,23495,Sarachnis,Sraracha
-Forgotten lockbox,30750,Yama,Oathplate helm (Lockbox)
-Forgotten lockbox,30753,Yama,Oathplate chest (Lockbox)
-Forgotten lockbox,30756,Yama,Oathplate legs (Lockbox)
+Forgotten lockbox,30750,Yama,Oathplate helm
+Forgotten lockbox,30753,Yama,Oathplate chest
+Forgotten lockbox,30756,Yama,Oathplate legs
 Yama,30750,Yama,Oathplate helm
 Yama,30753,Yama,Oathplate chest
 Yama,30756,Yama,Oathplate legs
