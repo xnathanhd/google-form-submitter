@@ -318,7 +318,7 @@ Chaos Fanatic,11995,Chaos Fanatic,Pet chaos elemental
 Scorpia,11933,Scorpia,Malediction shard 3
 Scorpia,11930,Scorpia,Odium shard 3
 Scorpia,13181,Scorpia,Scorpia's offspring
-Chaos Elemental,11920,Chaos Elemental,Dragon pickaxe (Chaos Elemental)
+Chaos Elemental,11920,Chaos Elemental,Dragon pickaxe
 Chaos Elemental,7158,Chaos Elemental,Dragon 2h sword (Chaos Elemental)
 Chaos Elemental,11995,Chaos Elemental,Pet chaos elemental
 Corporeal Beast,12819,Corporeal Beast,Any Sigil
