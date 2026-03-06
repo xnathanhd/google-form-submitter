@@ -234,9 +234,9 @@ Crystalline Hunllef,25859,Gauntlet,Enhanced crystal weapon seed
 Crystalline Hunllef,4207,Gauntlet,Crystal weapon seed
 Crystalline Hunllef,23956,Gauntlet,Crystal armour seed
 Crystalline Hunllef,23757,Gauntlet,Youngllef
-Corrupted Hunllef,25859,Corrupted Gauntlet,Enhanced crystal weapon seed (c)
-Corrupted Hunllef,4207,Corrupted Gauntlet,Crystal weapon seed (c)
-Corrupted Hunllef,23956,Corrupted Gauntlet,Crystal armour seed (c)
+Corrupted Hunllef,25859,Corrupted Gauntlet,Enhanced crystal weapon seed
+Corrupted Hunllef,4207,Corrupted Gauntlet,Crystal weapon seed
+Corrupted Hunllef,23956,Corrupted Gauntlet,Crystal armour seed
 Corrupted Hunllef,23757,Corrupted Gauntlet,Youngllef
 Rabbit,24000,Rabbit,Crystal grail
 Zulrah,12927,Zulrah,Serpentine visage
