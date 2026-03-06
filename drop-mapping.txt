@@ -302,7 +302,7 @@ Callisto,13178,Callisto,Callisto cub
 Vet'ion,12601,Vet'ion,Ring of the gods
 Vet'ion,27673,Vet'ion,Skull of vet'ion
 Vet'ion,27684,Vet'ion,Voidwaker blade
-Vet'ion,13179,Vet'ion,Vet'ion Jr.
+Vet'ion,13179,Vet'ion,Vet'ion Jr
 Venenatis,12605,Venenatis,Treasonous ring
 Venenatis,27670,Venenatis,Fangs of venenatis
 Venenatis,27687,Venenatis,Voidwaker gem
