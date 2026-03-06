@@ -314,13 +314,13 @@ Crazy archaeologist,11932,Crazy archaeologist,Malediction shard 2
 Crazy archaeologist,11929,Crazy archaeologist,Odium shard 2
 Chaos Fanatic,11931,Chaos Fanatic,Malediction shard 1
 Chaos Fanatic,11928,Chaos Fanatic,Odium shard 1
-Chaos Fanatic,11995,Chaos Fanatic,Pet chaos elemental (Chaos Fanatic)
+Chaos Fanatic,11995,Chaos Fanatic,Pet chaos elemental
 Scorpia,11933,Scorpia,Malediction shard 3
 Scorpia,11930,Scorpia,Odium shard 3
 Scorpia,13181,Scorpia,Scorpia's offspring
 Chaos Elemental,11920,Chaos Elemental,Dragon pickaxe (Chaos Elemental)
 Chaos Elemental,7158,Chaos Elemental,Dragon 2h sword (Chaos Elemental)
-Chaos Elemental,11995,Chaos Elemental,Pet chaos elemental (Chaos Elemental)
+Chaos Elemental,11995,Chaos Elemental,Pet chaos elemental
 Corporeal Beast,12819,Corporeal Beast,Elysian sigil
 Corporeal Beast,12827,Corporeal Beast,Arcane sigil
 Corporeal Beast,12823,Corporeal Beast,Spectral sigil
