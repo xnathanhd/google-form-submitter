@@ -307,7 +307,7 @@ Venenatis,12605,Venenatis,Treasonous ring
 Venenatis,27670,Venenatis,Fangs of venenatis
 Venenatis,27687,Venenatis,Voidwaker gem
 Venenatis,13177,Venenati,Venenatis spiderling
-King Black Dragon,11920,King Black Dragon,Dragon pickaxe (King Black Dragon)
+King Black Dragon,11920,King Black Dragon,Dragon pickaxe
 King Black Dragon,11286,King Black Dragon,Draconic visage (King Black Dragon)
 King Black Dragon,12653,King Black Dragon,Prince Black Dragon
 Crazy archaeologist,11932,Crazy archaeologist,Malediction shard 2
