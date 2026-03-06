@@ -50,6 +50,7 @@ Cerberus,13247,Cerberus,Hellpuppy
 Giant mole,10976,Giant mole,Long bone (Giant mole)
 Giant mole,12646,Giant mole,Baby mole
 Commander Zilyana,11838,Commander Zilyana,Saradomin sword
+Commander Zilyana,13256,Commander Zilyana,Saradomin's light
 Commander Zilyana,11785,Commander Zilyana,Armadyl crossbow
 Commander Zilyana,11814,Commander Zilyana,Saradomin hilt
 Commander Zilyana,12651,Commander Zilyana,Pet zilyana
