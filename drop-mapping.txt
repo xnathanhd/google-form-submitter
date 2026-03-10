@@ -335,3 +335,11 @@ Elder chaos druid,20595,Elder chaos driud, Elder chaos hood
 Elder chaos druid,20517,Elder chaos driud, Elder chaos top
 Elder chaos druid,20520,Elder chaos driud, Elder chaos robe
 Monk,526,Monk,Bones
+Theatre of Blood,99999,Theatre of Blood, Sub 15:30 Trio TOB
+Theatre of Blood (HM),99998,Theatre of Blood (HM),Sub 16:45 5man HMT
+Corrupted Hunllef,99997,Corrupted Gauntlet,Sub 5:30 CG
+TzTok-Jad,99996,TzTok-Jad,Sub 21:30 Fight Caves
+TzKal-Zuk,99995,TzKal-Zuk,Sub 50:00 Inferno
+Chambers of Xeric (CM),99994,Chambers of Xeric (CM),Sub 28:00 Solo CM
+Chambers of Xeric (CM),99994,Chambers of Xeric (CM),Sub 19:30 Trio CM
+Fortis Colosseum,99993,Fortis Colosseum,Sub 18:00 Colosseum
