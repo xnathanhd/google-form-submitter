@@ -344,3 +344,4 @@ Chambers of Xeric (CM),99994,Chambers of Xeric (CM),Sub 28:00 Solo CM
 Chambers of Xeric (CM),99994,Chambers of Xeric (CM),Sub 19:30 Trio CM
 Fortis Colosseum,99993,Fortis Colosseum,Sub 18:00 Colosseum
 Fortis Colosseum,99992,Fortis Colosseum,Dizana's quiver (uncharged)
+Kraken,12007,Kraken,Jar of dirt
