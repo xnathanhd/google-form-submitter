@@ -26,7 +26,7 @@ Demonic gorilla,19589,Demonic Gorilla,Heavy frame (Demonic gorilla)
 Demonic gorilla,19586,Demonic Gorilla,Light frame (Demonic gorilla)
 Kraken,11905,Kraken,Trident of the seas (full)
 Kraken,12004,Kraken,Kraken tentacle (Kraken)
-Kraken,12007,Kraken,Jar of dirt
+Unsired,13277,Abyssal Sire,Jar of miasma
 Kraken,12655,Kraken,Kraken
 Thermonuclear smoke devil,11998,Thermonuclear smoke devil,Smoke battlestaff
 Thermonuclear smoke devil,12002,Thermonuclear smoke devil,Occult necklace (Thermonuclear smoke devil)
