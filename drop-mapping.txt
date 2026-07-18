@@ -349,7 +349,7 @@ Corporeal Beast,12823,Corporeal Beast,Spectral sigil
 Corporeal Beast,12833,Corporeal Beast,Holy elixir
 Corporeal Beast,12829,Corporeal Beast,Spirit shield
 Corporeal Beast,25521,Corporeal Beast,Jar of spirits
-Corporeal Beast,12816,Corporeal Beast,Dark core
+Corporeal Beast,12816,Corporeal Beast,Pet dark core
 Zombie Pirate,29455,Zombie pirates,Teleport anchoring scroll
 Zombie Pirate's Locker,29455,Zombie pirates,Teleport anchoring scroll
 Elder chaos druid,20595,Elder chaos driud,Elder chaos hood
