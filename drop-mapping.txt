@@ -351,9 +351,9 @@ Corporeal Beast,25521,Corporeal Beast,Jar of spirits
 Corporeal Beast,12816,Corporeal Beast,Dark core
 Zombie Pirate,29455,Zombie pirates,Teleport anchoring scroll
 Zombie Pirate's Locker,29455,Zombie pirates,Teleport anchoring scroll
-Elder chaos druid,20595,Elder chaos driud,Elder chaos
-Elder chaos druid,20517,Elder chaos driud,Elder chaos
-Elder chaos druid,20520,Elder chaos driud,Elder chaos
+Elder chaos druid,20595,Elder chaos driud,Elder chaos hood
+Elder chaos druid,20517,Elder chaos driud,Elder chaos top
+Elder chaos druid,20520,Elder chaos driud,Elder chaos robe
 Kraken,12007,Kraken,Jar of dirt
 Kraken,6640,Kraken,Pet Kraken
 Kraken,6656, Kraken, Pet Kraken
