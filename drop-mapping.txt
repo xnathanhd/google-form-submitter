@@ -374,5 +374,58 @@ Vardorvis,28276,Vardorvis,Chromuim ingot
 Elder Chaos druid,20595,Elder Chaos druid,Elder Chaos hood
 Giant Mole,1615,Giant Mole,Dragonstone
 Ogress Shaman,21838,Ogress Shaman,Shaman Mask
+<4m Totem>
+Revenant imp,22299,Revenant imp,4m+ totem
+Revenant goblin,22299,Revenant goblin,4m+ totem
+Revenant pyrefiend,22299,Revenant pyrefiend,4m+ totem
+Revenant hobgoblin,22299,Revenant hobgoblin,4m+ totem
+Revenant goblin,22299,Revenant goblin,4m+ totem
+Revenant cyclops,22299,Revenant cyclops,4m+ totem
+Revenant hellhound,22299,Revenant hellhound,4m+ totem
+Revenant demon,22299,Revenant demon,4m+ totem
+Revenant ork,22299,Revenant ork,4m+ totem
+Revenant dark beast,22299,Revenant beast,4m+ totem
+Revenant knight,22299,Revenant knight,4m+ totem
+Revenant dragon,22299,Revenant dragon,4m+ totem
+<16m totem>
+Revenant imp,22305,Revenant imp,4m+ totem
+Revenant goblin,22305,Revenant goblin,4m+ totem
+Revenant pyrefiend,22305,Revenant pyrefiend,4m+ totem
+Revenant hobgoblin,22305,Revenant hobgoblin,4m+ totem
+Revenant goblin,22305,Revenant goblin,4m+ totem
+Revenant cyclops,22305,Revenant cyclops,4m+ totem
+Revenant hellhound,22305,Revenant hellhound,4m+ totem
+Revenant demon,22305,Revenant demon,4m+ totem
+Revenant ork,22305,Revenant ork,4m+ totem
+Revenant dark beast,22305,Revenant beast,4m+ totem
+Revenant knight,22305,Revenant knight,4m+ totem
+Revenant dragon,22305,Revenant dragon,4m+ totem
+<8m Totem>
+Revenant imp,22302,Revenant imp,4m+ totem
+Revenant goblin,22302,Revenant goblin,4m+ totem
+Revenant pyrefiend,22302,Revenant pyrefiend,4m+ totem
+Revenant hobgoblin,22302,Revenant hobgoblin,4m+ totem
+Revenant goblin,22302,Revenant goblin,4m+ totem
+Revenant cyclops,22302,Revenant cyclops,4m+ totem
+Revenant hellhound,22302,Revenant hellhound,4m+ totem
+Revenant demon,22302,Revenant demon,4m+ totem
+Revenant ork,22302,Revenant ork,4m+ totem
+Revenant dark beast,22302,Revenant beast,4m+ totem
+Revenant knight,22302,Revenant knight,4m+ totem
+Revenant dragon,22302,Revenant dragon,4m+ totem
+<ancient crystal>
+Revenant imp,21804,Revenant imp,ancient crystal
+Revenant goblin,21804,Revenant goblin,ancient crystal
+Revenant pyrefiend,21804,Revenant pyrefiend,ancient crystal
+Revenant hobgoblin,21804,Revenant hobgoblin,ancient crystal
+Revenant goblin,21804,Revenant goblin,ancient crystal
+Revenant cyclops,21804,Revenant cyclops,ancient crystal
+Revenant hellhound,21804,Revenant hellhound,ancient crystal
+Revenant demon,21804,Revenant demon,ancient crystal
+Revenant ork,21804,Revenant ork,ancient crystal
+Revenant dark beast,21804,Revenant beast,ancient crystal
+Revenant knight,21804,Revenant knight,ancient crystal
+Revenant dragon,21804,Revenant dragon,ancient crystal
+Undead Druid,23522,Undead Druid,Mask of Ranul
 
 Monk,526,Monk,Bones
