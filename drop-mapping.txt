@@ -105,6 +105,7 @@ Vorkath,21992,Vorkath,Vorki
 Phantom Muspah,27614,Phantom Muspah,Venator shard
 Phantom Muspah,5314,Phantom Muspah,Maple seed (Phantom Muspah)
 Phantom Muspah,21486,Phantom Muspah,Teak seed (Phantom Muspah)
+Phantom Muspah,21488,Phantom Muspah,Mahogany seed
 Phantom Muspah,27590,Phantom Muspah,Muphin
 Kalphite Queen,11920,Kalphite Queen,Dragon pickaxe (Kalphite Queen)
 Kalphite Queen,3140,Kalphite Queen,Dragon chainbody (Kalphite Queen)
@@ -343,9 +344,35 @@ Chambers of Xeric (CM),99994,Chambers of Xeric (CM),Sub 19:30 Trio CM
 Fortis Colosseum,99993,Fortis Colosseum,Sub 18:00 Colosseum
 Fortis Colosseum,99992,Fortis Colosseum,Dizana's quiver (uncharged)
 Kraken,12007,Kraken,Jar of dirt
+Kraken,6640,Kraken,Pet Kraken
+Kraken,6656, Kraken, Pet Kraken
+Kraken,12655,Kraken, Pet kraken
 Gryphon,31243,Gryphon,Horn of Plenty
 Skeletal Wyvern,6809,Skeletal Wyvern,Granite Legs
 Ancient Wyvern,21643,Ancient Wyvern,Granite Boots
-Maggot King,TBD,Maggot King,Crimson kisten
-Maggot King,TBD,Maggot King,Amulet of Rupture
+Maggot King,33631,Maggot King,Crimson kisten
+Maggot King,33634,Maggot King,Amulet of Rupture
+Maggot King,33673,Maggot King,Maggot egg (wriggling)
+Maggot King,33675,Maggot King,Maggot egg (writhing)
+K'ril Tsutsaroth,1289,K'ril Tsutsaroth,Rune Sword
+Commander Zilana,1289,Commander Zilana,Rune Sword
+Kree'arra,1289,Kree'arra,Rune Sword
+General Graardor,1289,General Graardor,Rune Sword
+Abyssal Sire,5321,Abyssal Sire,Watermelon Seeds
+Unsired,13265,Unsired,Abyssal Dagger
+Alchemical Hydra,23077,Alchemical Hydra,Alchemical Hydra Heads
+Araxxor,985,Araxxor,Tooth Half of Key
+Chaos Elemental,1319,Chaos Elemental,Rune 2h Sword
+Chaos Fanatic,2363,Chaos Fanatic,Runite Bar
+Crazy archaeologist,2363,Crazy archaeologist,Runite Bar
+Deranged archaeologist,2363,Deranged archaeologist,Runite Bar
+Dagganoth Kings,1454,Dagganoth Kings,Cosmic Talisman
+The Whisperer,28276,The Whisperer,Chromium ingot
+Duke Sucellus,28276,Duke Sucellus,Chromium ingot
+The Leviathan,28276,The Leviathan,Chromium ingot
+Vardorvis,28276,Vardorvis,Chromuim ingot
+Elder Chaos druid,20595,Elder Chaos druid,Elder Chaos hood
+Giant Mole,1615,Giant Mole,Dragonstone
+Ogress Shaman,21838,Ogress Shaman,Shaman Mask
+
 Monk,526,Monk,Bones
