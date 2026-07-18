@@ -130,12 +130,12 @@ The Leviathan,28283,Leviathan,Venator vestige
 The Leviathan,28252,Leviathan,Lil'viathan
 Tombs of Amascut,27277,Tombs of Amascut,Tumeken's shadow (uncharged)
 Tombs of Amascut (XM),27277,Tombs of Amascut,Tumeken's shadow (uncharged)
-Tombs of Amascut,27226,Tombs of Amascut,Masori
-Tombs of Amascut (XM),27226,Tombs of Amascut,Masori
-Tombs of Amascut,27229,Tombs of Amascut,Masori
-Tombs of Amascut (XM),27229,Tombs of Amascut,Masori
-Tombs of Amascut,27232,Tombs of Amascut,Masori
-Tombs of Amascut (XM),27232,Tombs of Amascut,Masori
+Tombs of Amascut,27226,Tombs of Amascut,Masori mask
+Tombs of Amascut (XM),27226,Tombs of Amascut,Masori mask
+Tombs of Amascut,27229,Tombs of Amascut,Masori body
+Tombs of Amascut (XM),27229,Tombs of Amascut,Masori body
+Tombs of Amascut,27232,Tombs of Amascut,Masori chaps
+Tombs of Amascut (XM),27232,Tombs of Amascut,Masori chaps
 Tombs of Amascut,25985,Tombs of Amascut,Elidinis' ward
 Tombs of Amascut (XM),25985,Tombs of Amascut,Elidinis' ward
 Tombs of Amascut,26219,Tombs of Amascut,Osmumten's fang
@@ -150,29 +150,29 @@ Alchemical Hydra,22983,Alchemical Hydra,Hydra leather
 Alchemical Hydra,23064,Alchemical Hydra,Jar of chemicals
 Alchemical Hydra,22746,Alchemical Hydra,Ikkle Hydra
 Alchemical Hydra,23077,Alchemical Hydra,Alchemical Hydra Heads
-Chambers of Xeric,21003,Chambers of Xeric,Cox Megarare
-Chambers of Xeric,20997,Chambers of Xeric,Cox Megarare
-Chambers of Xeric,21043,Chambers of Xeric,Cox Megarare
-Chambers of Xeric,13652,Chambers of Xeric,Ancestral Table
-Chambers of Xeric,21018,Chambers of Xeric,Ancestral Table
-Chambers of Xeric,21021,Chambers of Xeric,Ancestral Table
-Chambers of Xeric,21024,Chambers of Xeric,Ancestral Table
-Chambers of Xeric,21015,Chambers of Xeric,Ancestral Table
-Chambers of Xeric,21012,Chambers of Xeric,Range Table
-Chambers of Xeric,21000,Chambers of Xeric,Range Table
+Chambers of Xeric,21003,Chambers of Xeric,Elder maul
+Chambers of Xeric,20997,Chambers of Xeric,Twisted bow
+Chambers of Xeric,21043,Chambers of Xeric,Kodai insignia
+Chambers of Xeric,13652,Chambers of Xeric,Dragon claws
+Chambers of Xeric,21018,Chambers of Xeric,Ancestral hat
+Chambers of Xeric,21021,Chambers of Xeric,Ancestral robe top
+Chambers of Xeric,21024,Chambers of Xeric,Ancestral robe bottom
+Chambers of Xeric,21015,Chambers of Xeric,Dinh's bulwark
+Chambers of Xeric,21012,Chambers of Xeric,Dragon hunter crossbow
+Chambers of Xeric,21000,Chambers of Xeric,Twisted buckler
 Chambers of Xeric,21034,Chambers of Xeric,Dexterous prayer scroll
 Chambers of Xeric,21079,Chambers of Xeric,Arcane prayer scroll
 Chambers of Xeric,20851,Chambers of Xeric,Olmlet
-Chambers of Xeric (CM),21003,Chambers of Xeric (CM),Cox Megarare
-Chambers of Xeric (CM),20997,Chambers of Xeric (CM),Cox Megarare
-Chambers of Xeric (CM),21043,Chambers of Xeric (CM),Cox Megarare
-Chambers of Xeric (CM),13652,Chambers of Xeric (CM),Ancestral Table
-Chambers of Xeric (CM),21018,Chambers of Xeric (CM),Ancestral Table
-Chambers of Xeric (CM),21021,Chambers of Xeric (CM),Ancestral Table
-Chambers of Xeric (CM),21024,Chambers of Xeric (CM),Ancestral Table
-Chambers of Xeric (CM),21015,Chambers of Xeric (CM),Ancestral Table
-Chambers of Xeric (CM),21012,Chambers of Xeric (CM),Range Table
-Chambers of Xeric (CM),21000,Chambers of Xeric (CM),Range Table
+Chambers of Xeric (CM),21003,Chambers of Xeric (CM),Elder maul
+Chambers of Xeric (CM),20997,Chambers of Xeric (CM),Twisted bow
+Chambers of Xeric (CM),21043,Chambers of Xeric (CM),Kodai insignia
+Chambers of Xeric (CM),13652,Chambers of Xeric (CM),Dragon claws
+Chambers of Xeric (CM),21018,Chambers of Xeric (CM),Ancestral hat
+Chambers of Xeric (CM),21021,Chambers of Xeric (CM),Ancestral robe top
+Chambers of Xeric (CM),21024,Chambers of Xeric (CM),Ancestral robe bottom
+Chambers of Xeric (CM),21015,Chambers of Xeric (CM),Dinh's bulwark
+Chambers of Xeric (CM),21012,Chambers of Xeric (CM),Dragon hunter crossbow
+Chambers of Xeric (CM),21000,Chambers of Xeric (CM),Twisted buckler
 Chambers of Xeric (CM),21034,Chambers of Xeric (CM),Dexterous prayer scroll
 Chambers of Xeric (CM),21079,Chambers of Xeric (CM),Arcane prayer scroll
 Chambers of Xeric (CM),24670,Chambers of Xeric (CM),Twisted kit
@@ -227,21 +227,21 @@ Phosani's Nightmare,24511,Phosani's Nightmare,Harmonised orb
 Phosani's Nightmare,25838,Phosani's Nightmare,Parasitic egg
 Phosani's Nightmare,24495,Phosani's Nightmare,Jar of dreams
 Phosani's Nightmare,24491,Phosani's Nightmare,Little Nightmare
-Theatre of Blood,22486,Theatre of Blood,Tob Weapon
-Theatre of Blood,22481,Theatre of Blood,Tob Weapon
-Theatre of Blood,22324,Theatre of Blood,Tob Weapon
+Theatre of Blood,22486,Theatre of Blood,Scythe of vitur (uncharged)
+Theatre of Blood,22481,Theatre of Blood,Sanguinesti staff (uncharged)
+Theatre of Blood,22324,Theatre of Blood,Ghrazi rapier
 Theatre of Blood,22477,Theatre of Blood,Avernic defender hilt
-Theatre of Blood,22326,Theatre of Blood,Justiciar
-Theatre of Blood,22327,Theatre of Blood,Justiciar
-Theatre of Blood,22328,Theatre of Blood,Justiciar
+Theatre of Blood,22326,Theatre of Blood,Justiciar faceguard
+Theatre of Blood,22327,Theatre of Blood,Justiciar chestguard
+Theatre of Blood,22328,Theatre of Blood,Justiciar legguards
 Theatre of Blood,22473,Theatre of Blood,Lil' Zik
-Theatre of Blood (HM),22486,Theatre of Blood (HM),Tob Weapon
-Theatre of Blood (HM),22481,Theatre of Blood (HM),Tob Weapon
+Theatre of Blood (HM),22486,Theatre of Blood (HM),Scythe of vitur (uncharged)
+Theatre of Blood (HM),22481,Theatre of Blood (HM),Sanguinesti staff (uncharged)
 Theatre of Blood (HM),22324,Theatre of Blood (HM),Ghrazi rapier
 Theatre of Blood (HM),22477,Theatre of Blood (HM),Avernic defender hilt
-Theatre of Blood (HM),22326,Theatre of Blood (HM),Justiciar
-Theatre of Blood (HM),22327,Theatre of Blood (HM),Justiciar
-Theatre of Blood (HM),22328,Theatre of Blood (HM),Justiciar
+Theatre of Blood (HM),22326,Theatre of Blood (HM),Justiciar faceguard
+Theatre of Blood (HM),22327,Theatre of Blood (HM),Justiciar chestguard
+Theatre of Blood (HM),22328,Theatre of Blood (HM),Justiciar legguards
 Theatre of Blood (HM),25742,Theatre of Blood (HM),Holy ornament kit
 Theatre of Blood (HM),25744,Theatre of Blood (HM),Sanguine ornament kit
 Theatre of Blood (HM),25746,Theatre of Blood (HM),Sanguine dust
