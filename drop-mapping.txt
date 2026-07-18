@@ -114,7 +114,7 @@ Vorkath,22106,Vorkath,Jar of decay
 Vorkath,21992,Vorkath,Vorki
 Vorkath,21486,Vorkath,Teak seed (Vorkath)
 Phantom Muspah,27614,Phantom Muspah,Venator shard
-Phantom Muspah,21488,Phantom Muspah,Mahogany seedd (Phantom Muspah)
+Phantom Muspah,21488,Phantom Muspah,Mahogany seed (Phantom Muspah)
 Phantom Muspah,21486,Phantom Muspah,Teak seed (Phantom Muspah)
 Phantom Muspah,27590,Phantom Muspah,Muphin
 Kalphite Queen,11920,Kalphite Queen,Dragon pickaxe (Kalphite Queen)
