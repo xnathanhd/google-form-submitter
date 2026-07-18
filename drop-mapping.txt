@@ -282,6 +282,7 @@ Fortis Colosseum,28939,Fortis Colosseum,Sunfire fanatic chausses
 Fortis Colosseum,28960,Fortis Colosseum,Smol Heredit
 The Hueycoatl,30085,Hueycoatl,Hueycoatl hide
 The Hueycoatl,30066,Hueycoatl,Tome of earth (empty)
+The Hueycoatl,30070,Hueycoatl,Dragon hunter wand
 The Hueycoatl,30152,Hueycoatl,Huberte
 Lunar chest,29000,Moons of Peril,Eclipse
 Lunar chest,29010,Moons of Peril,Eclipse
