@@ -7,7 +7,7 @@ Abyssal Sire,5321,Abyssal Sire,Watermelon Seeds
 Unsired,13262,Abyssal Sire,Abyssal orphan
 Unsired,13265,Unsired,Abyssal Dagger
 Deranged archaeologist,30895,Deranged archaeologist,Steel ring
-Deranged archaeologist,2363,Deranged archaeologist,Runite Bar
+Deranged archaeologist,2363,Deranged archaeologist,Runite Bar (Deranged archaeologist)
 Scurrius,10976,Scurrius,Long bone
 Scurrius,28801,Scurrius,Scurry
 Shellbane gryphon,31245,Shellbane gryphon,Belle's folly
@@ -330,11 +330,11 @@ King Black Dragon,11286,King Black Dragon,Draconic visage (King Black Dragon)
 King Black Dragon,12653,King Black Dragon,Prince Black Dragon
 Crazy archaeologist,11932,Crazy archaeologist,Malediction shard 2
 Crazy archaeologist,11929,Crazy archaeologist,Odium shard 2
-Crazy archaeologist,2363,Crazy archaeologist,Runite Bar
+Crazy archaeologist,2363,Crazy archaeologist,Runite Bar (Crazy archaeologist)
 Chaos Fanatic,11931,Chaos Fanatic,Malediction shard 1
 Chaos Fanatic,11928,Chaos Fanatic,Odium shard 1
 Chaos Fanatic,11995,Chaos Fanatic,Pet chaos elemental
-Chaos Fanatic,2363,Chaos Fanatic,Runite Bar
+Chaos Fanatic,2363,Chaos Fanatic,Runite Bar (Chaos Fanatic)
 Scorpia,11933,Scorpia,Malediction shard 3
 Scorpia,11930,Scorpia,Odium shard 3
 Scorpia,13181,Scorpia,Scorpia's offspring
@@ -342,12 +342,13 @@ Chaos Elemental,11920,Chaos Elemental,Dragon pickaxe
 Chaos Elemental,7158,Chaos Elemental,Dragon 2h sword (Chaos Elemental)
 Chaos Elemental,11995,Chaos Elemental,Pet chaos elemental
 Chaos Elemental,1319,Chaos Elemental,Rune 2h Sword
-Corporeal Beast,12819,Corporeal Beast,Any Sigil
-Corporeal Beast,12827,Corporeal Beast,Any Sigil
-Corporeal Beast,12823,Corporeal Beast,Any Sigil
+Corporeal Beast,12819,Corporeal Beast,Elysian sigil
+Corporeal Beast,12827,Corporeal Beast,Arcane sigil
+Corporeal Beast,12823,Corporeal Beast,Spectral sigil
 Corporeal Beast,12833,Corporeal Beast,Holy elixir
+Corporeal Beast,12829,Corporeal Beast,Spirit shield
 Corporeal Beast,25521,Corporeal Beast,Jar of spirits
-Corporeal Beast,12816,Corporeal Beast,Pet dark core
+Corporeal Beast,12816,Corporeal Beast,Dark core
 Zombie Pirate,29455,Zombie pirates,Teleport anchoring scroll
 Zombie Pirate's Locker,29455,Zombie pirates,Teleport anchoring scroll
 Elder chaos druid,20595,Elder chaos driud,Elder chaos
