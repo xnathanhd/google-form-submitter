@@ -60,7 +60,7 @@ Commander Zilyana,13256,Commander Zilyana,Saradomin's light
 Commander Zilyana,11785,Commander Zilyana,Armadyl crossbow
 Commander Zilyana,11814,Commander Zilyana,Saradomin hilt
 Commander Zilyana,12651,Commander Zilyana,Pet zilyana
-Commander Zilana,1289,Commander Zilana,Rune Sword
+Commander Zilyana,1289,Commander Zilana,Rune Sword
 General Graardor,11836,General Graardor,Bandos boots
 General Graardor,11832,General Graardor,Bandos chestplate
 General Graardor,11834,General Graardor,Bandos tassets
