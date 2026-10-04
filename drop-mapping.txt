@@ -233,7 +233,7 @@ Mad Angel,34030,Mad Angel,Jar of Light
 Mad Angel,34042,Mad Angel,Aggy
 <Maggot King>
 Maggot King,33631,Maggot King,Crimson kisten
-Maggot King,33634,Maggot King,Amulet of Rupture
+Maggot King,33634,Maggot King,Elder venator fang
 Maggot King,33673,Maggot King,Maggot egg (wriggling)
 Maggot King,33675,Maggot King,Maggot egg (writhing)
 <Moons of Peril>
