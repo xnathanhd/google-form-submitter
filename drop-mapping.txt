@@ -84,9 +84,9 @@ Chambers of Xeric (CM),21003,Chambers of Xeric (CM),Elder maul
 Chambers of Xeric (CM),20997,Chambers of Xeric (CM),Twisted bow
 Chambers of Xeric (CM),21043,Chambers of Xeric (CM),Kodai insignia
 Chambers of Xeric (CM),13652,Chambers of Xeric (CM),Dragon claws
-Chambers of Xeric (CM),21018,Chambers of Xeric (CM),Ancestral hat
-Chambers of Xeric (CM),21021,Chambers of Xeric (CM),Ancestral robe top
-Chambers of Xeric (CM),21024,Chambers of Xeric (CM),Ancestral robe bottom
+Chambers of Xeric (CM),21018,Chambers of Xeric,Ancestral hat
+Chambers of Xeric (CM),21021,Chambers of Xeric,Ancestral robe top
+Chambers of Xeric (CM),21024,Chambers of Xeric,Ancestral robe bottom
 Chambers of Xeric (CM),21015,Chambers of Xeric (CM),Dinh's bulwark
 Chambers of Xeric (CM),21012,Chambers of Xeric (CM),Dragon hunter crossbow
 Chambers of Xeric (CM),21000,Chambers of Xeric (CM),Twisted buckler
